@@ -1,0 +1,52 @@
+[
+  {
+    "name": "composer",
+    "tracker_id": "slider_composer_1",
+    "topic_prefix": "slider/composer-slider-1",
+    "custom": [
+      {
+        "type": "button",
+        "icon": "mdi:texture",
+        "name": "Backgrd",
+        "action_name": "clear",
+        "topic": "savebg",
+        "value": "true"
+      }
+    ],
+    "zone_id": "slider"
+  },
+  {
+    "name": "laser",
+    "tracker_id": "reer_wall_laser_1",
+    "topic_prefix": "reer-wall/laser-reer-wall-1",
+    "zone_id": "reer_wall"
+  },
+  {
+    "name": "laser",
+    "tracker_id": "reer_wall_laser_2",
+    "topic_prefix": "reer-wall/laser-reer-wall-2",
+    "zone_id": "reer_wall"
+  },
+  {
+    "name": "laser",
+    "tracker_id": "reer_wall_laser_3",
+    "topic_prefix": "reer-wall/laser-reer-wall-3",
+    "zone_id": "reer_wall"
+  },
+  {
+    "name": "composer",
+    "tracker_id": "reef_floor_composer_1",
+    "topic_prefix": "reef-floor/composer-reef-floor-1",
+    "custom": [
+      {
+        "type": "button",
+        "icon": "mdi:texture",
+        "name": "Backgrd",
+        "action_name": "clear",
+        "topic": "savebg",
+        "value": "true"
+      }
+    ],
+    "zone_id": "reef_floor"
+  }
+]

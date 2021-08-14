@@ -1,0 +1,29 @@
+[
+  {
+    "computer_id": "hc_Slider_1",
+    "computer_name": "Slider 1",
+    "ip": "192.168.1.110",
+    "mac": "98:EE:CB:CB:79:9C",
+    "name": "Slider",
+    "winthing_topic_prefix": "WinThing/hc-Slider-1",
+    "zone_id": "slider"
+  },
+  {
+    "computer_id": "hc_reer_wall_1",
+    "computer_name": "Reer wall 1",
+    "ip": "192.168.1.100",
+    "mac": "18:C0:4D:9A:2D:D0",
+    "name": "Reer wall",
+    "winthing_topic_prefix": "WinThing/hc-reer-wall-1",
+    "zone_id": "reer_wall"
+  },
+  {
+    "computer_id": "hc_reef_floor_1",
+    "computer_name": "Reef floor 1",
+    "ip": "192.168.1.101",
+    "mac": "18:C0:4D:9A:2C:E4",
+    "name": "Reef floor",
+    "winthing_topic_prefix": "WinThing/hc-reef-floor-1",
+    "zone_id": "reef_floor"
+  }
+]

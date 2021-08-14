@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Slider",
+    "themes": "apps",
+    "zone_id": "slider"
+  },
+  {
+    "name": "Reer wall",
+    "themes": "global",
+    "zone_id": "reer_wall"
+  },
+  {
+    "name": "Reef floor",
+    "themes": "global",
+    "zone_id": "reef_floor"
+  }
+]

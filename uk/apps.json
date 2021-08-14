@@ -1,0 +1,103 @@
+[
+  {
+    "all_scenes": [
+      {
+        "name": "City",
+        "scene_id": "City"
+      },
+      {
+        "name": "Space",
+        "scene_id": "Space"
+      },
+      {
+        "name": "Toys",
+        "scene_id": "Animals"
+      },
+      {
+        "name": "Underwater",
+        "scene_id": "Underwater"
+      },
+      {
+        "name": "Toys",
+        "scene_id": "Toys"
+      },
+      {
+        "name": "New Year",
+        "scene_id": "NewYear"
+      }
+    ],
+    "all_volume": [
+      {
+        "name": "Music",
+        "volume_id": "volume_music"
+      },
+      {
+        "name": "Fx",
+        "volume_id": "volume_fx"
+      },
+      {
+        "name": "Voice",
+        "volume_id": "volume_voice"
+      }
+    ],
+    "app_id": "slider_1_unity",
+    "name": "Slider",
+    "topic_prefix": "slider-1/hc-slider-2.0",
+    "zone_id": "slider",
+    "computer_id": "hc_Slider_1"
+  },
+  {
+    "all_scenes": [
+      {
+        "name": "Wall",
+        "scene": "main"
+      }
+    ],
+    "all_volume": [
+      {
+        "name": "Music",
+        "volume_id": "volume_music"
+      },
+      {
+        "name": "Fx",
+        "volume_id": "volume_fx"
+      },
+      {
+        "name": "Voice",
+        "volume_id": "volume_voice"
+      }
+    ],
+    "app_id": "ocean_wall_1_unity",
+    "name": "Ocean wall",
+    "topic_prefix": "ocean-wall-1/hc-oceania-central-reef",
+    "zone_id": "reer_wall",
+    "computer_id": "hc_reer_wall_1"
+  },
+  {
+    "all_scenes": [
+      {
+        "name": "Floor",
+        "scene": "main"
+      }
+    ],
+    "all_volume": [
+      {
+        "name": "Music",
+        "volume_id": "volume_music"
+      },
+      {
+        "name": "Fx",
+        "volume_id": "volume_fx"
+      },
+      {
+        "name": "Voice",
+        "volume_id": "volume_voice"
+      }
+    ],
+    "app_id": "ocean_floor_1_unity",
+    "name": "Ocean floor",
+    "topic_prefix": "ocean-floor-2/hc-oceania-central-reef",
+    "zone_id": "reef_floor",
+    "computer_id": "hc_reef_floor_1"
+  }
+]
